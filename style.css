@@ -1,0 +1,49 @@
+.home-menu {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.content {
+    margin-top: 90px;
+    margin-left: 20px;
+    padding-top: 50px;
+
+}
+
+.bear-card {
+    box-sizing: border-box;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #0e0d0d;
+    border-radius: 10px;
+
+}
+
+.bear-desc {
+
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.4;
+    margin: 10px;
+}
+
+
+.bear-img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
