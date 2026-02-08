@@ -39,7 +39,6 @@
     margin: 10px;
 }
 
-
 .bear-img {
     width: 100%;
     max-width: 200px;
@@ -47,3 +46,65 @@
     display: block;
     margin: 10px auto;
 }
+
+
+/* Details page styles */
+.detail-img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+
+    margin-top: 90px;
+    padding-top: 40px;
+
+    border: dodgerblue dotted;
+    border-width: 5px;
+    border-radius: 15px;
+
+
+}
+
+/* Add character styles */
+.form-container {
+    margin-top: 100px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+textarea {
+    min-height: 100px;
+}
+
+button {
+
+    margin-top: 15px;
+}
+
+.add-character-body .content {
+    max-width: 600px;
+    margin: 120px auto;
+    padding: 40px;
+    text-align: center;
+    
+}
+
+.add-character-body .pure-form{
+    text-align: left;
+    
+}
+
+.add-character-body .pure-input-1-2 {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.add-character-body .pure-button {
+    display: block;
+    margin: 20px auto;
+
+}
+
