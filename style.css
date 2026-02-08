@@ -1,11 +1,14 @@
 .home-menu {
-    background-color: #f2f2f2;
+    background-color: white;
     padding: 10px;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
-    color: #333;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #0e0d0d;
+}
+
+.home-menu .pure-menu-link{
+    color: #D32A40;
 }
 
 .logo {
